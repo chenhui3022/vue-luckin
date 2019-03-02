@@ -39,7 +39,7 @@
     height: .32rem
     border-radius: 50%
     font-size .26rem
-    background #F23030
+    background #25a4bb
     z-index: 200
     .inner
       text-align center
