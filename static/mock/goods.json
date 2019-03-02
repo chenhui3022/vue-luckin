@@ -1,0 +1,477 @@
+{
+  "swiperList":[
+    {
+      "id":"0001",
+      "imgUrl":"http://www.17pr.com/attachment/cms/images/2018/08/10/1533867246254666.jpg"
+    },
+    {
+      "id":"0002",
+      "imgUrl":"http://n.sinaimg.cn/sinacn/w549h306/20180203/9abd-fyrhcqy1873907.jpg"
+    },
+    {
+      "id":"0003",
+      "imgUrl":"http://upload.newhua.com/2018/0605/1528187312244.png"
+    }
+  ],
+  "goods": [
+    {
+      "id":"0001",
+      "name": "猜你喜欢",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0001",
+          "name": "摩卡",
+          "price": 27,
+          "en":"Black Tea Latte",
+          "oldPrice": "",
+          "description": "Mocha",
+          "info": "蒸煮牛奶与浓缩咖啡相融合,加入香浓巧克力风味。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我相信一杯好咖啡，不止可以连接土壤，阳光，还可以用创意，连接自然中一切美妙的力量",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            },{
+              "ratename": "defdgdf",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我相信一杯好咖啡，不止可以连接土壤，阳光，还可以用创意，连接自然中一切美妙的力量",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0002",
+          "name": "红茶拿铁",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Mocha",
+          "info": "我相信一杯好咖啡，不止可以连接土壤，阳光，还可以用创意，连接自然中一切美妙的力量",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我相信一杯好咖啡，不止可以连接土壤，阳光，还可以用创意，连接自然中一切美妙的力量",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0003",
+          "name": "抹茶拿铁",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Mocha",
+          "info": "日式茶道级研磨工艺打造极细的抹茶粉,再搭配牛奶,入口毫无颗粒感,满足了抹茶控的“挑剔味蕾”。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我相信一杯好咖啡，不止可以连接土壤，阳光，还可以用创意，连接自然中一切美妙的力量",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0002",
+      "name": "人气Top",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0004",
+          "name": "榛果拿铁",
+          "price": 10,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "榛果爱好者的选择，香甜榛果风味与咖啡牛奶融合，诠释另一种新鲜风味",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0003",
+      "name": "大师咖啡",
+      "type": 2,
+      "goods": [
+        {
+          "id":"0005",
+          "name": "拿铁",
+          "price": 24,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "经典意式奶咖，浓缩咖啡与香醇牛奶融合，口感圆润",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0006",
+          "name": "香草拿铁",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Matcha Latte",
+          "info": "拿铁中融入清新香草风味，沁人心脾",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0007",
+          "name": "焦糖拿铁",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "简单即美味,经典浓缩咖啡以水调和,焦香味随之而来",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0008",
+          "name": "标准美式",
+          "price": 21,
+          "oldPrice": "",
+          "description": "Matcha Latte",
+          "info": "瘦身党最爱的大师级咖啡No.1.简单即美味,经典浓缩咖啡以水调和,焦香味随之而来。运动健身来一杯,健康翻倍!",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0004",
+      "name": "零度拿铁",
+      "type": 1,
+      "goods": [
+        {
+          "id":"0010",
+          "name": "红茶拿铁",
+          "price": 10,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "颇受女性群体欢迎的经典款。在英式红茶中加入鲜甜牛奶,既有红茶的甜醇芬芳,又有鲜奶的浓郁丝滑,奇妙口感必将征服你",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0011",
+          "name": "抹茶拿铁",
+          "price": 14,
+          "oldPrice": "",
+          "description": "Matcha Latte",
+          "info": "日式茶道级研磨工艺打造极细的抹茶粉,再搭配牛奶,入口毫无颗粒感,满足了抹茶控的“挑剔味蕾”。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0005",
+      "name": "瑞纳冰",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0012",
+          "name": "小雪荔枝瑞纳冰",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "小雪荔枝瑞纳冰",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0013",
+          "name": "宇治抹茶瑞纳冰",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "宇治抹茶瑞纳冰",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0014",
+          "name": "百香芒果瑞纳冰",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "百香芒果瑞纳冰",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0006",
+      "name": "经典饮品",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0015",
+          "name": "茉莉柠茶",
+          "price": 10,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "轻柔茉莉搭配酸甜柠檬,清肝明目润脾胃∼吸一口清香,品一口舒畅,清爽优雅在杯中∼",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0016",
+          "name": "桃薄荷茶",
+          "price": 14,
+          "oldPrice": "",
+          "description": "Matcha Latte",
+          "info": "清凉解毒的薄荷,金黄诱人的黄桃肉,双重组合奏响出营养二重唱。冷饮热饮口味均佳。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0017",
+          "name": "柑橘百香果",
+          "price": 27,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "纯粹鲜榨水果茶拯救缺乏维生素的职场上班族!你可以喝水不多,但不能让健康减分。酸甜的柑橘、多纤维的百香果为身体送上最好的礼物",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0007",
+      "name": "健康轻食",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0018",
+          "name": "巧克力司康",
+          "price": 9.9,
+          "oldPrice": 10,
+          "description": "Black Tea Latte",
+          "info": "好一份美味推荐,叫人眼馋更嘴馋!",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0019",
+          "name": "蔓越莓司康",
+          "price": 9.9,
+          "oldPrice": 15,
+          "description": "Black Tea Latte",
+          "info": "好一份美味推荐,叫人眼馋更嘴馋!",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0020",
+          "name": "蓝莓麦芬",
+          "price":8.58,
+          "oldPrice": 13,
+          "description": "Black Tea Latte",
+          "info": "好一份美味推荐,叫人眼馋更嘴馋!",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"0008",
+      "name": "鲜榨果蔬汁",
+      "type": -1,
+      "goods": [
+        {
+          "id":"0021",
+          "name": "猕猴桃复合果汁",
+          "price": 24,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "纯粹鲜榨水果茶拯救缺乏维生素的职场上班族!你可以喝水不多,但不能让健康减分。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0022",
+          "name": "NFC复合果汁",
+          "price": 24,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "纯粹鲜榨水果茶拯救缺乏维生素的职场上班族!你可以喝水不多,但不能让健康减分。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        },
+        {
+          "id":"0023",
+          "name": "NFC鲜榨橙汁",
+          "price": 24,
+          "oldPrice": "",
+          "description": "Black Tea Latte",
+          "info": "纯粹鲜榨水果茶拯救缺乏维生素的职场上班族!你可以喝水不多,但不能让健康减分。",
+          "image": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png",
+          "ratings": [
+            {
+              "username": "潘志敏",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "我不在乎咖啡豆的搭配",
+              "avatar": "http://ruanwenpic.b0.upaiyun.com/ueditor/upyun/20171222/1513917883799960.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

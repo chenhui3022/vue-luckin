@@ -1,0 +1,24 @@
+{
+  "swiperList":[
+    {
+      "id":"0001",
+      "imgUrl":"http://p0.ifengimg.com/pmop/2018/0104/89882EB7AD2FD6A6B14BADD5BB104575A4CA9E90_size44_w414_h565.jpeg"
+    },
+    {
+      "id":"0002",
+      "imgUrl":"https://img.zcool.cn/community/01b8145c0780b1a80121ab5d5515c9.jpg@1280w_1l_2o_100sh.jpg"
+    },
+    {
+      "id":"0003",
+      "imgUrl":"http://www.shidongchina.com.cn/d/file/lohas/jsh/2018-01-24/1516756577845101.jpg"
+    }
+  ],
+  "select":[
+    {
+      "name":"自提"
+    },
+    {
+      "name":"外送"
+    }
+  ]
+}
